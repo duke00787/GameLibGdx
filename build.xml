@@ -8,6 +8,7 @@
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
 <project name="lib-gdx" default="default" basedir=".">
+	<target name="build" />
     <description>Builds, tests, and runs the project lib-gdx.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
